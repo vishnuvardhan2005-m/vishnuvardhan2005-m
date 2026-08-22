@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F172A,100:00FFB2&height=220&section=header&text=Vishnu%20Vardhan&fontSize=55&fontColor=00FFB2&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=E5E5E5" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F172A,100:00FFB2&height=220&section=header&text=Vishnu%20Vardhan&fontSize=55&fontColor=00FFB2&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58&descSize=18&descColor=E5E5E5" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+applications+%F0%9F%9A%80;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Turning+coffee+into+clean+code+%E2%98%95;Currently%3A+LMS+Platform+%40+Robomonk+Technologies" alt="Typing SVG" />
 
@@ -25,11 +25,13 @@
 ```javascript
 const vishnu = {
     role: "MERN Stack Developer",
-    location: "Andhra Pradesh, India",
+    location: "Andhra Pradesh, India - 521201",
     currentGig: "Web Developer Intern @ Robomonk Technologies",
     stack: ["React.js", "Node.js", "Express.js", "MongoDB", "Redux", "Tailwind CSS"],
+    summary: "Detail-oriented MERN Stack Developer building scalable full-stack " +
+              "web apps with RESTful APIs, auth, and responsive, production-ready UI.",
     passion: "Clean code, scalable systems, user-centric products 🚀",
-    funFact: "Migrated a live 500+ user platform to AWS without breaking a sweat 😅"
+    funFact: "Migrated a live LMS platform to AWS without breaking a sweat 😅"
 };
 ```
 
@@ -50,20 +52,20 @@ const vishnu = {
 └──────────────────────────────────────────────────────────────┘
 ```
 
-&nbsp;&nbsp;&nbsp;&nbsp;**🏗️ Scaled an LMS platform to 500+ active students**
-&nbsp;&nbsp;&nbsp;&nbsp;React.js + Node.js/Express.js + MongoDB → **40% faster** page loads
+&nbsp;&nbsp;&nbsp;&nbsp;**🏗️ Built and maintained an LMS platform**
+&nbsp;&nbsp;&nbsp;&nbsp;React.js + Vite + Node.js/Express.js + MongoDB → **~40% faster** page loads
 
-&nbsp;&nbsp;&nbsp;&nbsp;**📊 Shipped a real-time engagement dashboard**
-&nbsp;&nbsp;&nbsp;&nbsp;Progress tracking, streaks, badge unlocks → **+35% engagement** in month one
+&nbsp;&nbsp;&nbsp;&nbsp;**📊 Developed a student learning dashboard**
+&nbsp;&nbsp;&nbsp;&nbsp;Progress tracking, streaks, badges, activity monitoring → **+35% engagement**
 
-&nbsp;&nbsp;&nbsp;&nbsp;**🛠️ Built a CMS + admin dashboard**
-&nbsp;&nbsp;&nbsp;&nbsp;Managing 100+ courses → **60% less** manual content ops
+&nbsp;&nbsp;&nbsp;&nbsp;**🛠️ Built & enhanced a CMS + admin dashboard**
+&nbsp;&nbsp;&nbsp;&nbsp;Managing 25+ courses, quizzes, learning paths & users → **~60% less** manual content ops
 
-&nbsp;&nbsp;&nbsp;&nbsp;**☁️ Led the Railway → AWS migration**
-&nbsp;&nbsp;&nbsp;&nbsp;Zero-downtime scale-up → **99.9% uptime**, **30% lower** infra cost
+&nbsp;&nbsp;&nbsp;&nbsp;**🔐 Implemented secure auth & authorization**
+&nbsp;&nbsp;&nbsp;&nbsp;Firebase Auth, JWT, protected routes, RBAC & RESTful APIs for user/admin workflows
 
 &nbsp;&nbsp;&nbsp;&nbsp;**🚀 Owned 3+ features end-to-end**
-&nbsp;&nbsp;&nbsp;&nbsp;UI → API → cloud deployment, every sprint, on time
+&nbsp;&nbsp;&nbsp;&nbsp;UI → API → MongoDB → debugging → testing → deployment, every sprint, on time
 
 </td>
 </tr>
@@ -77,7 +79,7 @@ const vishnu = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,python,aws,git,github,postman,vscode&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,tailwind,bootstrap,nextjs,nodejs,express,mongodb,firebase,python,aws,git,github,postman,vscode&theme=dark" />
 
 <br/><br/>
 
@@ -97,7 +99,19 @@ const vishnu = {
 
 <table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
+
+### 🍽️ Smart Canteen
+**AI Demand Forecasting System**
+
+Full-stack platform predicting meal demand from historical sales, weather, events & foot traffic via the Gemini API. REST APIs, MongoDB aggregation pipelines & analytics dashboards.
+
+`Next.js` `TypeScript` `Node.js` `Express` `MongoDB` `Gemini API` `Recharts`
+
+[`💻 Source Code`](#)
+
+</td>
+<td width="33%" valign="top">
 
 ### 🛍️ Style-Cart
 **Full-stack E-Commerce Platform**
@@ -111,7 +125,7 @@ User & admin modules with secure auth, full CRUD, and role-based access control.
 [`🔗 Live Demo`](#) &nbsp;•&nbsp; [`💻 Source Code`](#)
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### 🍬 SweetHaven
 **Real-Time Online Store**
@@ -154,7 +168,7 @@ Cart system, order management, and live inventory updates powered by Firestore.
 <td width="50%" valign="top">
 
 **🏅 Recognitions**
-- 🥈 2nd Prize — Hyper Web Hackathon *(120 competing teams)*
+- 🥈 2nd Prize — Hyper Web Hackathon *(full-stack project, 120 competing teams)*
 - 🥇 1st Prize — College-Level Technical Quiz
 
 </td>
