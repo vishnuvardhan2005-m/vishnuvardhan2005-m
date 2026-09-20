@@ -1,1 +1,52 @@
+name: Profile stats & snake
 
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # every 12 hours
+  workflow_dispatch:          # lets you run it manually from the Actions tab
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  # 1) Stats cards (profile details + contribution chart, stats, languages)
+  cards:
+    runs-on: ubuntu-latest
+    name: generate-profile-summary-cards
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # Uses your personal access token if you add the SUMMARY_GITHUB_TOKEN
+          # secret (needed to count private contributions); otherwise falls
+          # back to the built-in token, which counts public activity only.
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          THEME: "github_dark"     # only generate the theme we use
+          ANIMATION: "load"        # subtle entrance animation
+
+  # 2) Contribution snake, drawn from your real contribution calendar
+  snake:
+    runs-on: ubuntu-latest
+    name: generate-snake
+    steps:
+      - name: Build snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+
+      - name: Publish to the "output" branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
