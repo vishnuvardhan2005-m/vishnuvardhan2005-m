@@ -2,11 +2,7 @@
   ╔══════════════════════════════════════════════════════════════╗
   ║  BEFORE YOU PUSH                                             ║
   ║  1. Repo name must be exactly: vishnuvardhan2005-m           ║
-  ║  2. Replace every  href="#"  / (#)  link with your own URL.  ║
-  ║  3. Run the Action once (Actions tab) to create the snake.   ║
-  ╚══════════════════════════════════════════════════════════════╝
--->
-
+  ║  2. Replace every  href="#"  / (#)  link with your own URL. 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F172A,100:00FFB2&height=240&section=header&text=Vishnu%20Vardhan&fontSize=58&fontColor=00FFB2&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Engineer%20%C2%B7%20MERN%20%C2%B7%20AI-Integrated%20Web%20Apps&descAlignY=58&descSize=18&descColor=E5E5E5" width="100%"/>
