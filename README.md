@@ -10,9 +10,9 @@
 [![Phone](https://img.shields.io/badge/-+91%208309389233-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=00FFB2&labelColor=0A0A0A)](tel:+918309389233)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FFB2&labelColor=0A0A0A)](#)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFB2&labelColor=0A0A0A)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFB2&labelColor=0A0A0A)](#)
+[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFB2&labelColor=0A0A0A)](https://github.com/vishnuvardhan2005-m)
 
-<img src="https://komarev.com/ghpvc/?username=vishnuvardhan-dev&label=Profile%20Views&color=00FFB2&style=for-the-badge&labelColor=0A0A0A" alt="profile views"/>
+<img src="https://komarev.com/ghpvc/?username=vishnuvardhan2005-m&label=Profile%20Views&color=00FFB2&style=for-the-badge&labelColor=0A0A0A" alt="profile views"/>
 
 </div>
 
@@ -136,10 +136,10 @@ Cart system, order management, and live inventory updates powered by Firestore.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhan-dev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FFB2&icon_color=00FFB2&text_color=E5E5E5&ring_color=00FFB2"/>
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=vishnuvardhan-dev&theme=dark&hide_border=true&background=0A0A0A&stroke=00FFB2&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhan2005-m&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FFB2&icon_color=00FFB2&text_color=E5E5E5&ring_color=00FFB2"/>
+<img height="165" src="https://streak-stats.demolab.com/?user=vishnuvardhan2005-m&theme=dark&hide_border=true&background=0A0A0A&stroke=00FFB230&ring=00FFB2&fire=00FFB2&currStreakLabel=00FFB2&currStreakNum=E5E5E5&sideNums=E5E5E5&sideLabels=E5E5E5&dates=9CA3AF"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhan-dev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FFB2&text_color=E5E5E5"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhan2005-m&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FFB2&text_color=E5E5E5"/>
 
 </div>
 
