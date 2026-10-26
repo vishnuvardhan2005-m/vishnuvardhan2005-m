@@ -173,7 +173,7 @@ Cart system, order management, and live inventory updates powered by Firestore.
 
 ## 🎓 Education
 
-**B.Tech, Computer Science & Engineering** — NRI Institute of Technology, Vijayawada
+**B.Tech, Computer Science & Engineering** — NRI Institute of Technology, Vijayawada.
 `2023 – 2027` &nbsp;|&nbsp; **CGPA: 8.43**
 
 <br/>
