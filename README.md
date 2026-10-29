@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+applications+%F0%9F%9A%80;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Turning+coffee+into+clean+code+%E2%98%95;Currently%3A+LMS+Platform+%40+Robomonk+Technologies" alt="Typing SVG" />
 
-<br/>
+
 
 [![Gmail](https://img.shields.io/badge/-musunuruvishnuv@gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFB2&labelColor=0A0A0A)](mailto:musunuruvishnuv@gmail.com)
 [![Phone](https://img.shields.io/badge/-+91%208309389233-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=00FFB2&labelColor=0A0A0A)](tel:+918309389233)
