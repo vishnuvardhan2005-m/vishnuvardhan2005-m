@@ -1,183 +1,137 @@
-<div align="center">
+<h1 align="center">Hi, I'm Vishnu Vardhan 👋</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:0F172A,100:00FFB2&height=220&section=header&text=Vishnu%20Vardhan&fontSize=55&fontColor=00FFB2&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Full%20Stack%20Engineer&descAlignY=58&descSize=18&descColor=E5E5E5" width="100%"/>
+<h3 align="center">MERN Stack Developer | Full Stack Developer</h3>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FFB2&center=true&vCenter=true&width=700&lines=Building+scalable+MERN+applications+%F0%9F%9A%80;React.js+%E2%80%A2+Node.js+%E2%80%A2+Express+%E2%80%A2+MongoDB;Turning+coffee+into+clean+code+%E2%98%95;Currently%3A+LMS+Platform+%40+Robomonk+Technologies" alt="Typing SVG" />
+<p align="center">
+  Building scalable, user-centric, production-ready web applications with React, Node.js & MongoDB.
+</p>
 
-[![Gmail](https://img.shields.io/badge/-musunuruvishnuv@gmail.com-0A0A0A?style=for-the-badge&logo=gmail&logoColor=00FFB2&labelColor=0A0A0A)](mailto:musunuruvishnuv@gmail.com)
-[![Phone](https://img.shields.io/badge/-+91%208309389233-0A0A0A?style=for-the-badge&logo=whatsapp&logoColor=00FFB2&labelColor=0A0A0A)](tel:+918309389233)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-0A0A0A?style=for-the-badge&logo=vercel&logoColor=00FFB2&labelColor=0A0A0A)](#)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=00FFB2&labelColor=0A0A0A)](#)
-[![GitHub](https://img.shields.io/badge/-GitHub-0A0A0A?style=for-the-badge&logo=github&logoColor=00FFB2&labelColor=0A0A0A)](https://github.com/vishnuvardhan2005-m)
+<p align="center">
+  <a href="https://vishnu-portfolio-lovat.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/vishnu-vardhan-musunuru/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:musunuruvishnuv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=vishnuvardhan2005-m&label=Profile%20Views&color=00FFB2&style=for-the-badge&labelColor=0A0A0A" alt="profile views"/>
+---
 
-</div>
+## 👨‍💻 About Me
 
-<br/>
+- 🎓 B.Tech in Computer Science & Engineering (2023 – 2027) at **NRI Institute of Technology, Vijayawada** — CGPA **8.43**
+- 💼 Web Developer Intern at **Robomonk Technologies** (Remote)
+- 🔧 Experienced in RESTful APIs, authentication, Redux state management, and responsive UI development
+- 🚀 Deploying apps on **Vercel** and **Netlify**
+- 🧠 Passionate about clean code, problem-solving, and building real-world products
+- 📍 Andhra Pradesh, India
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB2,100:0A0A0A&height=3&width=100%" width="100%"/>
+---
 
-## 🧭 `whoami`
+## 🛠️ Tech Stack
 
-```javascript
-const vishnu = {
-    role: "MERN Stack Developer",
-    location: "Andhra Pradesh, India",
-    currentGig: "Web Developer Intern @ Robomonk Technologies",
-    stack: ["React.js", "Node.js", "Express.js", "MongoDB", "Redux", "Tailwind CSS"],
-    passion: "Clean code, scalable systems, user-centric products 🚀",
-    funFact: "Migrated a live 500+ user platform to AWS without breaking a sweat 😅"
-};
-```
+**Frontend**
 
-<br/>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB2,100:0A0A0A&height=3&width=100%" width="100%"/>
+**Backend & Database**
 
-## 💼 Experience Timeline
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![JWT](https://img.shields.io/badge/JWT-000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
-<table>
-<tr>
-<td width="100%">
+**Languages, AI & Automation**
 
-```
-┌──────────────────────────────────────────────────────────────┐
-│  🏢  Web Developer Intern — Robomonk Technologies              │
-│  📅  March 2026 – Present  |  🌍  Remote                       │
-└──────────────────────────────────────────────────────────────┘
-```
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**🏗️ Scaled an LMS platform to 500+ active students**
-&nbsp;&nbsp;&nbsp;&nbsp;React.js + Node.js/Express.js + MongoDB → **40% faster** page loads
+**Tools & Deployment**
 
-&nbsp;&nbsp;&nbsp;&nbsp;**📊 Shipped a real-time engagement dashboard**
-&nbsp;&nbsp;&nbsp;&nbsp;Progress tracking, streaks, badge unlocks → **+35% engagement** in month one
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000?style=flat-square&logo=cursor&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 
-&nbsp;&nbsp;&nbsp;&nbsp;**🛠️ Built a CMS + admin dashboard**
-&nbsp;&nbsp;&nbsp;&nbsp;Managing 100+ courses → **60% less** manual content ops
+---
 
-&nbsp;&nbsp;&nbsp;&nbsp;**☁️ Led the Railway → AWS migration**
-&nbsp;&nbsp;&nbsp;&nbsp;Zero-downtime scale-up → **99.9% uptime**, **30% lower** infra cost
+## 💼 Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;**🚀 Owned 3+ features end-to-end**
-&nbsp;&nbsp;&nbsp;&nbsp;UI → API → cloud deployment, every sprint, on time
+### Web Developer Intern — Robomonk Technologies
+*March 2026 – Present · Remote*
 
-</td>
-</tr>
-</table>
+- Built and maintained an **LMS platform** using React.js, Vite, Node.js, Express.js, and MongoDB, improving average page load performance by ~40%.
+- Developed a **student learning dashboard** with progress tracking, learning streaks, badges, and activity monitoring, contributing to a 35% increase in student engagement.
+- Built a **CMS and admin dashboard** managing 25+ courses, quizzes, learning paths, users, and content, reducing manual content management effort by ~60%.
+- Implemented **Firebase authentication, JWT authorization, protected routes, and role-based access control** with RESTful APIs.
+- Delivered 3+ end-to-end features independently, from UI to backend, testing, and deployment within sprint deadlines.
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB2,100:0A0A0A&height=3&width=100%" width="100%"/>
+## 🚀 Featured Projects
 
-## 🧰 Tech Arsenal
+### 🍽️ Smart Canteen – AI Demand Forecasting System
+Full-stack platform that predicts meal demand using historical sales, weather, events, and foot traffic via the **Google Gemini API**. Includes REST APIs, MongoDB aggregation pipelines, and analytics dashboards.
 
-<div align="center">
+**Tech:** `Next.js` `TypeScript` `Node.js` `Express.js` `MongoDB` `Gemini API` `Recharts`
+🔗 [GitHub Repo](YOUR_SMART_CANTEEN_REPO_URL)
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,bootstrap,nodejs,express,mongodb,firebase,python,aws,git,github,postman,vscode&theme=dark" />
+### 🛍️ Style-Cart – E-Commerce Website
+Full-stack e-commerce app with separate user and admin modules, secure authentication, CRUD operations, and role-based access control.
 
-<br/><br/>
+**Tech:** `React.js` `Redux` `Tailwind CSS` `Node.js` `Express.js` `MongoDB`
+🔗 [GitHub Repo](YOUR_STYLE_CART_REPO_URL)
 
-![n8n](https://img.shields.io/badge/n8n-0A0A0A?style=for-the-badge&logo=n8n&logoColor=EA4B71)
-![Gemini API](https://img.shields.io/badge/Gemini_API-0A0A0A?style=for-the-badge&logo=googlegemini&logoColor=8E75FF)
-![Vercel](https://img.shields.io/badge/Vercel-0A0A0A?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Netlify](https://img.shields.io/badge/Netlify-0A0A0A?style=for-the-badge&logo=netlify&logoColor=00C7B7)
-![Cursor](https://img.shields.io/badge/Cursor-0A0A0A?style=for-the-badge&logo=cursor&logoColor=FFFFFF)
+### 🍬 SweetHaven – Online Store
+Online store with cart, order management, and real-time updates.
 
-</div>
+**Tech:** `React.js` `Tailwind CSS` `Node.js` `Express.js` `Firebase` `Firestore`
+🔗 [GitHub Repo](YOUR_SWEETHAVEN_REPO_URL)
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB2,100:0A0A0A&height=3&width=100%" width="100%"/>
+## 🏆 Achievements
 
-## 🚀 Featured Builds
+- 🥈 **2nd Prize** — Hyper Web Hackathon (full-stack project hackathon), among 120 teams
+- 🥇 **1st Prize** — College-level Technical Quiz
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🛍️ Style-Cart
-**Full-stack E-Commerce Platform**
+## 📜 Certifications
 
-User & admin modules with secure auth, full CRUD, and role-based access control.
+| Certification | Issued By |
+|---|---|
+| React.js | Simplilearn |
+| Git | Let's Upgrade |
+| Python | Udemy |
 
-`React.js` `Redux` `Tailwind` `Node.js` `Express` `MongoDB`
+---
 
-**▲ Deployed on Vercel**
+## 📊 GitHub Stats
 
-[`🔗 Live Demo`](#) &nbsp;•&nbsp; [`💻 Source Code`](#)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vishnuvardhan2005-m&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhan2005-m&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="170"/>
+</p>
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🍬 SweetHaven
-**Real-Time Online Store**
+## 📫 Let's Connect
 
-Cart system, order management, and live inventory updates powered by Firestore.
+- 📧 Email: [musunuruvishnuv@gmail.com](mailto:musunuruvishnuv@gmail.com)
+- 📱 Phone: +91 8309389233
+- 💬 Open to internships, full-time roles, and freelance collaborations
 
-`React.js` `Tailwind` `Node.js` `Express` `Firebase`
-
-**▲ Deployed on Vercel**
-
-[`🔗 Live Demo`](#) &nbsp;•&nbsp; [`💻 Source Code`](#)
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB2,100:0A0A0A&height=3&width=100%" width="100%"/>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vishnuvardhan2005-m&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FFB2&icon_color=00FFB2&text_color=E5E5E5&ring_color=00FFB2"/>
-<img height="165" src="assets/streak.svg" alt="Active days, current streak and longest streak"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnuvardhan2005-m&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0A0A0A&title_color=00FFB2&text_color=E5E5E5"/>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFB2,100:0A0A0A&height=3&width=100%" width="100%"/>
-
-## 🏆 Achievements & Certifications
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**🏅 Recognitions**
-- 🥈 2nd Prize — Hyper Web Hackathon *(120 competing teams)*
-- 🥇 1st Prize — College-Level Technical Quiz
-
-</td>
-<td width="50%" valign="top">
-
-**📜 Certifications**
-- React.js — Simplilearn
-- Git — Let's Upgrade
-- Python — Udemy
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🎓 Education
-
-**B.Tech, Computer Science & Engineering** — NRI Institute of Technology, Vijayawada.
-`2023 – 2027` &nbsp;|&nbsp; **CGPA: 8.43**
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFB2,50:0F172A,100:0A0A0A&height=150&section=footer&text=Let's%20Build%20Something%20Great&fontSize=22&fontColor=E5E5E5&animation=fadeIn" width="100%"/>
-
-<div align="center">
-<sub>⚡ Open to full-stack opportunities and collaborations ⚡</sub>
-</div>
+<p align="center">⭐ Thanks for visiting my profile! ⭐</p>
